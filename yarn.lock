@@ -699,7 +699,7 @@
     "@chakra-ui/utils" "2.0.8"
     "@chakra-ui/visually-hidden" "2.0.8"
 
-"@chakra-ui/styled-system@>=2.0.0", "@chakra-ui/styled-system@2.2.7":
+"@chakra-ui/styled-system@^2.2.7", "@chakra-ui/styled-system@>=2.0.0", "@chakra-ui/styled-system@2.2.7":
   "integrity" "sha512-8kG4ItrQ26IB9B6+yfrslPUvOGxquaOCBg15mofsEIlwFHhBtcJ26hu2ByDGG3LRGHLStbcJcSPeg+sebkGiPw=="
   "resolved" "https://registry.npmjs.org/@chakra-ui/styled-system/-/styled-system-2.2.7.tgz"
   "version" "2.2.7"
